@@ -1,0 +1,20 @@
+
+
+//gocd-demo/node-bulletin-board, a sample app for gocd for Kubernetes
+https://github.com/gocd-demo/node-bulletin-board
+   //code
+   git clone https://github.com/gocd-demo/node-bulletin-board.git 
+   
+//create module dependencies
+npm init
+   
+// test
+npm test
+
+
+ //start app
+ npm start  
+    Server started on port 8080...
+
+    
+http://localhost:8080

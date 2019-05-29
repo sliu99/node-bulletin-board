@@ -4,6 +4,8 @@
 https://github.com/gocd-demo/node-bulletin-board
    //code
    git clone https://github.com/gocd-demo/node-bulletin-board.git 
+  
+ 5/12/2019 
    
 //create module dependencies
 npm init
@@ -18,3 +20,8 @@ npm test
 
     
 http://localhost:8080
+
+
+5/29/2019
+
+Fail to use Kubernetes with cocd due to configuration issues.
